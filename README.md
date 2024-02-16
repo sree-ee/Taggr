@@ -11,5 +11,5 @@ pip install requests beautifulsoup4
 2.The script will search Redbubble for products related to the keyword.
 
 It will then extract the tags from the top product page and display them.
-Note: The script limits the number of tags to 17 per product.
----
+## Note: The script limits the number of tags to 17 per product.
+
