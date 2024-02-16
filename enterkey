@@ -33,7 +33,8 @@ def get_top_product_tags(top_product_link):
         return tag_list
     return None
 
-keyword = input("Enter a keyword: ")
+#keyword = input("Enter a keyword: ")
+keyword='barbie'
 html = search_redbubble(keyword)
 if html:
     print("Search successful!")
