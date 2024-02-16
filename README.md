@@ -3,9 +3,9 @@ This Python script allows you to extract product tags from the Redbubble website
 ## Installation
 1.Make sure you have Python installed on your system.
 2.Install the required libraries using pip:
-'''python
+```python
 pip install requests beautifulsoup4
-'''
+```
 ## Usage
 1.Run the script and enter a keyword when prompted.
 2.The script will search Redbubble for products related to the keyword.
