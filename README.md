@@ -8,6 +8,7 @@ pip install requests beautifulsoup4
 ```
 ## Usage
 1.Run the script and enter a keyword when prompted.
+
 2.The script will search Redbubble for products related to the keyword.
 
 It will then extract the tags from the top product page and display them.
